@@ -1,4 +1,4 @@
-# Gerador de Certificados
+# Gerador de Certificados :bookmark_tabs:
 
 Projeto desenvolvido durante a maratona de 10 aulas disponibilizada pela Alura. Traz a possibilidade de geração de um certificado segundo nome e links dos códigos desenvolvidos pelo detentor do mesmo. Além disso, incrementou-se a função para disponibilizar o mesmo para impressão e exportação em PDF.
 
